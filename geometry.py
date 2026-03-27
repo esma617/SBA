@@ -1,3 +1,4 @@
+# Geometry calculations module - updated by Role A
 import math
 
 def triangle_area(base, height):
